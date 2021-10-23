@@ -1,0 +1,30 @@
+num	running_num_type	orig_num	id	type	loc	own_veg_type	own_veg_num	veg_class	veg_typ	exposition	inclination	height	mowing	grazing	soil_temp
+1	1	17	E3	Open	Tribulaun	Alpine heathland &\ngrassland	6	Alpine communities	Alpine grassland on calcareous bedrock (mostlly Polsterseggenrasen, Caricetum firmae)	65	7	2060	-	-	11.4
+2	2	10	A3	Open	Tribulaun	Alpine heathland &\ngrassland	6	Alpine communities	Alpine grassland on calcareous bedrock (mostlly Polsterseggenrasen, Caricetum firmae)	210	26	2070	-	-	12.7
+3	3	8	B3	Open	Tribulaun	Alpine heathland &\ngrassland	6	Alpine communities	Alpine grassland on calcareous bedrock (mostlly Polsterseggenrasen, Caricetum firmae)	229	30	2030	-	-	?
+4	4	14	C2	Open	Tribulaun	Alpine heathland &\ngrassland	6	Alpine communities	Alpine grassland on calcareous bedrock (mostlly Polsterseggenrasen, Caricetum firmae)	260	32	2070	-	-	8.8
+5	5	9	D3	Open	Tribulaun	Alpine heathland &\ngrassland	6	Alpine communities	moist alpine grassland that cannot be further assigned (on silicate, between carbonate screes)	280	12	2049	-	-	?
+6	6	7	A2	Open	Nösslachjoch	Alpine heathland &\ngrassland	6	Alpine communities	Alpine grassland on calcareous silicate bedrock, in transition to dwarf-shrub heath 	87	32	2210	-	-	?
+7	7	6	D2	Open	Nösslachjoch	Alpine heathland &\ngrassland	6	Alpine communities	(Sub-)Alpine dwarf-shrub heath (Cetrario-Loiseleurietum), partly with elements of subalpine Nardus grasslands (running no. 7) 	11	24	2205	-	-	14
+8	8	16	E2	Open	Nösslachjoch	Alpine heathland &\ngrassland	6	Alpine communities	(Sub-)Alpine dwarf-shrub heath (Cetrario-Loiseleurietum), partly with elements of subalpine Nardus grasslands (running no. 7) 	100	22	2200	-	-	10.3
+9	9	13	C1	Open	Nösslachjoch	Alpine heathland &\ngrassland	6	Alpine communities	(Sub-)Alpine dwarf-shrub heath (Cetrario-Loiseleurietum), partly with elements of subalpine Nardus grasslands (running no. 7) 	90	25	2200	-	-	7.5
+10	10	5	B2	Open	Nösslachjoch	Alpine heathland &\ngrassland	6	Alpine communities	(Sub-)Alpine dwarf-shrub heath (Cetrario-Loiseleurietum), partly with elements of subalpine Nardus grasslands (running no. 7) 	11	20	2190	-	-	9.8
+11	11	3	(B1)	Open	Magdalena	Calcareous grassland	5	High montane to subalpine communities	High montane grassland on calcareous bedrock (Blaugras-Horstseggenrasen, Seslerio-Caricetum sempervirentis)	240	40	1614	-	-	?
+12	12	4	(C!)	Open	Magdalena	Calcareous grassland	5	High montane to subalpine communities	High montane grassland on calcareous bedrock (Blaugras-Horstseggenrasen, Seslerio-Caricetum sempervirentis)	230	50	1640	+	-	?
+13	13	26	C4	Open	Blaser	Nardus grassland	4	High montane to subalpine communities	Subalpine Nardus grassland (Sieversio-Nardetum, Nardion strictae) 	160	22	1760	+	-	14.3
+14	14	19	E5	Open	Blaser	Nardus grassland	4	High montane to subalpine communities	Subalpine Nardus grassland (Sieversio-Nardetum, Nardion strictae) 	165	30	1800	+	-	16.2
+15	15	21	A5	Open	Blaser	Nardus grassland	4	High montane to subalpine communities	Subalpine Nardus grassland (Sieversio-Nardetum, Nardion strictae) 	191	10	1780	+	-	?
+16	16	24	D5	Open	Blaser	Nardus grassland	4	High montane to subalpine communities	Subalpine Nardus grassland (Sieversio-Nardetum, Nardion strictae) 	17.2	29	1740	-	+	15.6
+17	17	22	B5	Open	Blaser	Nardus grassland	4	High montane to subalpine communities	Subalpine Nardus grassland (Sieversio-Nardetum, Nardion strictae) 	161	20	1710	-	+	14.7
+18	18	2	(A1)	Open	Magdalena	Small sedge community &\nmountain meadow	3	Montaine communities	Mesic mountain meadow (Trisetion flavescentis)	300	30	1668	+	-	?
+19	19	18	E4	Open	Laponesalm	Small sedge community &\nmountain meadow	3	Montaine communities	Mesic mountain meadow (Trisetion flavescentis)	150	10	1400	+	-	15.1
+20	20	11	A4	Open	Laponesalm	Small sedge community &\nmountain meadow	3	Montaine communities	Mesic mountain meadow (Trisetion flavescentis)	135	10	1440	+	-	14.7
+21	21	12	B4	Open	Laponesalm	Small sedge community &\nmountain meadow	3	Montaine communities	Small sedge community (Caricion fuscae, with elements of Caricion davallianae) 	130	4	1450	+	-	15.8
+22	22	15	C3	Open	Laponesalm	Small sedge community &\nmountain meadow	3	Montaine communities	Small sedge community (Caricion fuscae, with elements of Caricion davallianae) 	100	17	1395	+	-	15.5
+23	23	23	D4	Open	Laponesalm	Small sedge community &\nmountain meadow	3	Montaine communities	Small sedge community (Caricion fuscae, with elements of Caricion davallianae) 	12.9	11	1460	+	-	?
+24	1	29	D6	Forest	Gschnitz	Spruce forest &\nKrummholz	2	Spruce-pine forests & Krummholz	Pine forest on calcareous bedrock, montane and thermophilic, (Erico carneae-Pinion, Erico-Pinetea) 	155	25	1262	-	-	11.2
+25	2	1	X1	Forest	Gschnitz	Spruce forest &\nKrummholz	2	Spruce-pine forests & Krummholz	Montaine-Spruce forest on calcareous bedrock (Calamagrostio variae-Piceetum / Adenostylo glabrae-Piceetum, Abieti-Piceion, Vaccinio-Piceetea) 	310	10	1280	-	-	?
+26	3	20	E6	Forest	Gschnitz	Spruce forest &\nKrummholz	2	Spruce-pine forests & Krummholz	Montane spruce forest on silicate bedrock (Homogyno alpinae-Piceetum, Piceion excelsae, Vaccinio-Piceetea) 	330	25	1300	-	-	?
+27	4	27	C5	Forest	Gschnitz	Spruce forest &\nKrummholz	2	Spruce-pine forests & Krummholz	Subalpine calcicolous pine krummholz, here montane (Rhododendro hirsuti-Pinetum prostratae, Erico-Pinion mugo, Roso pendulinae-Pinetea mugo) 	330	28	1260	-	-	6
+28	5	25	B6	Forest	Gschnitzbach	Floodplain forest	1	Floodplain forest	Grey alder floodplain forest, montane (Aceri-Alnetum incanae, Alnion incanae) 	-	0	1240	-	-	12.5
+29	6	28	A6	Forest	Gschnitzbach	Floodplain forest	1	Floodplain forest	Grey alder floodplain forest, montane (Aceri-Alnetum incanae, Alnion incanae) 	-	0	1240	-	+	12.2

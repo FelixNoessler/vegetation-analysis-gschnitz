@@ -1,0 +1,367 @@
+layer	species	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	temp	cont	light
+T	Alnus incana																									1			2		3	3	3
+T	Larix decidua																											+			2	4	4
+T	Picea abies (L.) H. Karst.	4																			4					1		1	2	2	2.5	3	1
+T	Pinus sylvestris L.																											2		2		4	4
+T	Prunus padus																									2				r	4	2	2
+S	Acer pseudoplatanus	1																													3	2	2
+S	Alnus incana																											r	+		3	3	3
+S	Berberis vulgaris	+																											1	1	3	4	3
+S	Betula pubescens																											+			3	3	4
+S	Fraxinus exelsior																												r		3.5	3	3
+S	Juniperus communis (S)+k																						r							+	3.5	4	4
+S	Larix decidua													1														1			2	4	4
+S	Lonicera alpigena																													r	2.5	2	2
+S	Picea abies (L.) H. Karst.	r																					2					+	1	1	2.5	3	1
+S	Pinus mugo Turra																											3			2	4	4
+S	Prunus padus																												2		4	2	2
+S	Salix nigricans																											+			2.5	3	4
+S	Sorbus aucuparia L.																											+	+		3	3	3
+H	Acer pseudoplatanus	3																											r	r	3	2	2
+H	Achillea atrata																	+													2	3	5
+H	Achillea millefolium aggr.		1									+							1	1					1	+	1		1				4
+H	Aconitum lycoctonum subsp. vulparia	r																													3	2	2
+H	Actaea spicata																												+		3	3	1
+H	Adenostyles alliariae																												+		2	2	2
+H	Aegopodium podagraria																									1			3		3.5	3	2
+H	Agrostis capillaris L.		1									2	+						1	1		2	1	+	1						3	3	3
+H	Agrostis spec.																										2						
+H	Agrostis stolonifera																									1			2		3	3	3
+H	Ajuga pyramidalis								1																					+	2	3	4
+H	Alchemilla vulgaris aggr. (= spec.)		1				1	1		2		1				2	+		1	1		1	1		1		2		1				
+H	Allium oleraceum				+																										3.5	3	3
+H	Alnus incana																												1		3	3	3
+H	Alopecurus pratensis											2																			4	3	4
+H	Antenneria dioica																			+		r									2	3	4
+H	Anthoxanthum odoratum aggr. inkl. alpinum	r					1	1		1		2	2			2	1		2	+		1		1	+		2	+		1	3.5	3	4
+H	Anthyllis vulneraria L. incl. subsp. alpestris			+				2	1		1							1		1		1					+						4
+H	Aquilegia atrata																													1	3	3	3
+H	Arabis bellidifolia																	1					1								1.5	3	5
+H	Arctostaphylos alpina													1																	1.5	2	3
+H	Arctostaphylos uva-ursi													3			2														2	4	3
+H	Arnica montana L.						1						+							1		+			r		1				2	3	4
+H	Asplenium viride HUDS.								+									1													2	2	2
+H	Bartsia alpina L.						1								+	1		1						1							2	3	4
+H	Bellidiastrum michelii= Aster bellidiastrum			1					1		r	+			1			1													2	3	3
+H	Berberis vulgaris	r																												+	3	4	3
+H	Betula pubescens																											1		r	3	3	4
+H	Biscutella laevigata L.			1					1	1	1				+			1		r											2	3	4
+H	Bistorta vivipara = Polygonum/Persicaria vivip.				1			2	+	r								+		1		1			+						1.5	3	4
+H	Brachypodium pinnatum aggr.				3																												3
+H	Brachypodium rupestre																													2	3.5	3	4
+H	Briza media L.			1								1				+				1		1		r			2				3	4	4
+H	Buphthalmum salicifolium L.			1	1																										3	4	3
+H	Calamagrostis varia (Schrad.) Host	+		3	2																						3			1	3	3	3
+H	Callianthemum coriandrifolium Rchb.					1		1			1				+		1														1.5	2	4
+H	Calluna vulgaris (L.) Hull						2													3		1		1			2	2			2.5	2	3
+H	Caltha palustris															1															3	3	3
+H	Campanula barbata L.																			+		r									2	3	4
+H	Campanula cochleariifolia								+									+													2	3	4
+H	Campanula persicifolia																		1												4	4	3
+H	Campanula rapunculoides																													r	4	4	3
+H	Campanula rotundifolia L.	r						1		1						+				1			r		1		1						4
+H	Campanula scheuchzeri Vill.		1								+	r										1									1.5	3	4
+H	Campanula trachelium																									+			+		3.5	3	2
+H	Carduus defloratus L.			1	1																										2.5	4	4
+H	Carex alba Scop.	2												1																1	3	4	3
+H	Carex atrata																	r													2	2	4
+H	Carex caryophyllea																			+		1	1		1		+				3	4	4
+H	Carex dioica L.																							1							3	3	4
+H	Carex echinata Murray															1								1							3	2	3
+H	Carex ericetorum																						1								3	5	4
+H	Carex ferruginea Scop.			1	2										2																2	2	4
+H	Carex firma Host								+		4							2													1.5	5	5
+H	Carex flacca																						1		+				1	1	3	3	3
+H	Carex flava agg.															1																3	3
+H	Carex montana																			1		2	2		1		3				3	4	3
+H	Carex nigra (L.) Reichard					1						1	2			1															2.5	2	4
+H	Carex ornithopoda	+								+																	2		1		3.5	3	3
+H	Carex pallescens											1				1							r	1	1						3	3	3
+H	Carex panicea L.															1								1							3	3	4
+H	Carex paucifloa Lightf.																							1							2	2	4
+H	Carex sempervirens KS			2			1	2	2	1	2				2			2		+		1	+				2				1.5	4	4
+H	Carex sylvatica																									1			1		3.5	3	2
+H	Carlina acaulis			1	1		r													1		1	1		+		+				2	3	4
+H	Carum carvi											2											+		+				+		2.5	3	4
+H	Centaurea pseudophrygia																		1	1											2.5	3	4
+H	Cerastium fontanum agg. Baumg. (incl. holosteoides)																					1	+		1				+			3	4
+H	Chaerophyllum hirsutum aggr. (incl. Ch. villarsii)		2									+							1								1		1	+	2.5	3	4
+H	Chamorchis alpina										r																				2	4	5
+H	Chrysosplenium alternifolium																												r		3	3	2
+H	Circaea alpina																												1		2.5	2	2
+H	Circaea lutetiana																												1		3.5	2	2
+H	Cirsium arvense																		+						r				+		4	3	3
+H	Cirsium erisithales	+																													2.5	4	2
+H	Cirsium heterophyllum = C. helenioides											2	1																		2.5	4	3
+H	Cirsium oleraceum																												+		3	3	3
+H	Cirsium palustre																						+		r						4	3	3
+H	Cirsium spec.				1																												
+H	Clematis alpina	+																												r	2	3	3
+H	Coeloglossum viride = Dactylorhiza viridis							r																							2	3	4
+H	Crepis biennis											2																			4	3	4
+H	Crepis conyzifolia (Gouan) A. Kern.																		2			2									2	3	4
+H	Crepis paludosa (L.) Moench															2													1		3	2	3
+H	Crocus albiflorus Schult.												1			+				+		1					+				2.5	3	4
+H	Cuscuta c.f. epithymum 																			r		1									3	3	4
+H	Cynosurus cristatus																						r								3	2	4
+H	Cystopteris montana																				r										2.5	2	3
+H	Dactylis glomerata aggr.		1									2				1										1			2		4	3	4
+H	Dactylorhiza fuchsii	+														+								1		1		r	+	r		3	4
+H	Daphne mezereum 																						+ 							+	3	3	2
+H	Daphne striata Tratt.			+							2																				1.5	3	3
+H	Daucus carota																			r											4	3	4
+H	Delphinium elatum																												1		2	2	3
+H	Deschampsia caespitosa (L.) P. Beauv.									1		1	+			1						1		1					1		3	3	3
+H	Deschampsia flexuosa (L.) Trin.	+																			3				1		1					3	3
+H	Drosera rotundifolia																							2							3	3	4
+H	Dryas octopetala L.							1	2		2				2			2													1.5	3	5
+H	Dryopteris carthusiana (Vill.) H. P. Fuchs																				+										3	3	2
+H	Dryopteris dilatata																				2								+		2.5	3	2
+H	Dryopteris filix-mas																									1					3	3	2
+H	Eleocharis quinqueflora (Hartmann) O. Schwarz = Eleocharis pauciflora																							2							3	3	4
+H	Elymus caninus = Agropyron caninum																									1			2		3.5	3	3
+H	Empetrum hermaphroditum							+																							1.5	2	4
+H	Equisetum pratense																									+					2	4	3
+H	Erica carnea L.	1		3	1															1		1					2	1		1	2	4	3
+H	Erigeron uniflorus							+																							1	4	5
+H	Eriophorum angustifolium															1								1							2.5	3	4
+H	Eriophorum latifolium Hoppe															1								1							3	3	4
+H	Euphrasia rostkoviana											1	+						2	1			+	+	+				1		3	3	4
+H	Festuca pratensis Huds.											2							1														4
+H	Festuca rubra aggr.		1										1							1		3	2		2		1		2	+			3
+H	Festuca sp.										+																1						
+H	Festuca violacea						2	1	+	3					3		1														1.5	4	4
+H	Fragaria vesca L.	1																					1		1	r			1	1	3	3	3
+H	Galeobdolon flavidum = Lamium / Lamiastrum galeobdolon subsp. flavidum																									+			1		3.5	4	1
+H	Galium anisophyllon Vill. (Blaser: pumilum?)			1	1															2		1	1		1		1			+	2	3	4
+H	Galium mollugo aggr. (incl. G. album und x pomeranicum)																									1			2	+	3.5	3	3
+H	Gentiana acaulis L.						1	+	1		1						1	1		+		1									1.5	3	4
+H	Gentiana clusii			r											1																1.5	3	5
+H	Gentiana cruciata																					+									3	4	3
+H	Gentiana verna							1		+					+							1					r				2.5	3	4
+H	Gentianella germanica																										1				3	2	4
+H	Geranium phaeum				1																										3	4	3
+H	Geranium sylvaticum L.		4									1														+					2.5	3	3
+H	Geum montanum L.						1													+		+									1.5	3	4
+H	Geum rivale		2																							+			1		3	3	3
+H	Globularia nudicaulis																			+							1				2	3	4
+H	Gnaphalium hoppeanum																								r						1.5	2	4
+H	Goodyera repens	+																													3	4	2
+H	Gymnadenia conopsea (L.) R. Br.			1	1															1		1					+				3	3	4
+H	Gymnadenia odoratissima (L.) Rich.			1																											3	4	4
+H	Gymnocarpium dryopteris (L.) Newman																				1										2.5	2	2
+H	Hedysarum hedysaroides									+																					1.5	3	4
+H	Helianthemum alpestre (Jacq.) DC.				+			1																							1.5	4	5
+H	Helianthemum nummularium subsp. grandiflorum			2	1															1		1					2				4.5	4	5
+H	Helictotrichon pubescens subsp. laevigatum 		1				1	1												2		1					2				1.5	4	4
+H	Helictotrichon versicolor					+		+									1														1.5	3	4
+H	Heracleum sphondylium		+		+																												4
+H	Hieracium alpinum										+																				2	3	4
+H	Hieracium hoppeanum																			2		1			1		1				2.5	4	4
+H	Hieracium lactucella												1			2							2	1							3	3	4
+H	Hieracium piliferum Hoppe					r								1																	1	4	5
+H	Hieracium spec.				1									1														1					
+H	Hieracium sylvaticum = murorum	1							+												1		1		+					1	3	3	2
+H	Hieracium villosum			1	1																										2	4	4
+H	Hippocrepis comosa																						r				1				3	4	4
+H	Homogyne alpina (L.) Cass.	1				1	1	1	1	+	1			1	1		1	1			1	1	+		r		1	+	+	1	2	3	3
+H	Huperzia selago (L.) Schrank & Mart.														1													1			2	3	3
+H	Hypericum maculatum		2																1	+		1					1				2	3	3
+H	Hypochaeris uniflora						1																								2	3	4
+H	Impatiens noli-tangere																												1		3.5	2	2
+H	Juncus filliformis												2			1															2.5	3	5
+H	Juncus trifidus L.					1		+								1															1.5	4	5
+H	Juniperus communis subsp. nana (S)+k (= alpina)						1	1						3									r								1.5	4	4
+H	Knautia dipsacifolia Kreutzer	+																								r			r	+	3	3	3
+H	Lathyrus pratensis		1																												3.5	3	3
+H	Leontodon hispidus L.					r		3		+	1	2			r	1	1	+	2	1		1	2		1						3	3	4
+H	Leucanthemum ircutianum (L. vulgare (Vaill.) Lam. agg.				r							2	+			2			2	1							+		1		3.5	3	4
+H	Lilium bulbiferum				r																										3	4	4
+H	Linum catharticum L.											+				+							r		+						4	3	3
+H	Loiseleuria = Kalmia procumbens (L.) Desv.					5	1	1						2			3														1.5	4	5
+H	Lolium perenne																								+						4	3	4
+H	Lonicera nigra																				+										3	3	2
+H	Lotus corniculatus (inkl. alpinus)		+	1	1		1			1									+	1			1	1	1		+			+			4
+H	Luzula alpina							1						1								1		1	+		1				1.5	3	4
+H	Luzula alpino-pilosa									+						2														1	1	2	4
+H	Luzula campestris(L.) DC.																1		1	2													3
+H	Luzula luzulina																				1										2.5	2	1
+H	Luzula luzuloides subsp. luzuloides																				+										3.5	3	3
+H	Luzula luzuloides subsp. rubella																			3		2			1						2.5	3	3
+H	Luzula pilosa	+																													3	3	2
+H	Luzula sylvatica (Huds.) Gaudin	+																														2	2
+H	Lycopodium annotinum aggr.	+																										1		+	2.5	2	1
+H	Maianthemum bifolium (L.) F. W. Schmidt	1																			3								1	1	3	3	1
+H	Medicago lupulina L.																						1								4	3	3
+H	Melampyrum pratense L.																											+		1	3	4	3
+H	Melampyrum sylvaticum L.	3																			1		r							1	2.5	3	2
+H	Melica nutans	1																												1	4	4	2
+H	Molinia caerulea															1								2							3	3	4
+H	Mutellina adenidifolia = Ligusticum mutellina (L.) Crantz					1	1		1	2				+			1														1.5	2	4
+H	Myosotis decumbens (sylvatica agg.)																												1		2	3	3
+H	Myosotis scorpioides L.											r				2															3	2	3
+H	Nardus stricta L.						2						1	1		2				2		2	+		2						2.5	3	4
+H	Neottia nidus-avis																											r			4	3	1
+H	Neottia ovata = Listera ovata				+																		+			1			+		3	3	3
+H	Nigritella nigra																										1				1.5	3	4
+H	Orchis ustulata			+																											2.5	4	2
+H	Orthilia secunda																											+			2.5	4	2
+H	Oxalis acetosella L.	1																			3							1	+	1	3	3	1
+H	Paris quadrifolia	1																											1		3	3	2
+H	Parnassia palustris							+										+						1							2	3	4
+H	Pedicularis oederi							1																							1.5	4	4
+H	Pedicularis rostratocapitata Crantz						1	2			1							r													1.5	4	4
+H	Pedicularis tuberosa																			+		1									1.5	3	4
+H	Peucedanum ostruthium											r																		r	2	3	3
+H	Phleum hirsutum		+							r										r		1					1				2	3	4
+H	Phleum pratense											2							+				+								3.5	3	4
+H	Phyteuma betonicifolium				+																								r		2	3	3
+H	Phyteuma hemisphaericum L.																r														1.5	3	4
+H	Phyteuma orbiculare L.			1	1				+		r				1				1			+					+					3	4
+H	Picea abies (L.) H. Karst.	+		+	r															+	1									1	2.5	3	1
+H	Pimpinella major (L.) Huds.		1		1															1		1					+		+		3.5	2	3
+H	Pimpinella saxifraga																													r	4	4	4
+H	Pimpinella sp.																										r						
+H	Pinguicula alpina L.										+				1			1													2	3	4
+H	Pinguicula vulgaris															+								1							3	3	4
+H	Plantago lanceolata L.											1				1			1			1	1		1		2					4	4
+H	Plantago media																										1				3.5	4	4
+H	Platanthera bifolia																											r			3.5	3	3
+H	Poa alpina L.						1			1																					1.5	3	4
+H	Poa pratensis aggr.											1													+				2		3		4
+H	Poa trivialis		1																												3	3	3
+H	Polygala alpestris Rchb.							1														1	+	+	1						2	3	4
+H	Polygala chamaebuxus L.	+																				1					1	1		1	2.5	3	3
+H	Polygala vulgaris																		+			1					+				3.5	4	4
+H	Polygonatum odoratum			1																											3	4	3
+H	Polygonatum verticillatum	1	1																												3	2	2
+H	Potentilla anserina																												1		3	3	4
+H	Potentilla aurea L.					1	1			1							1		1	1			+		1		2	+			1.5	3	4
+H	Potentilla erecta (L.) Raeusch.	1		2	1								1			2			1	1		1		1	1		2	1	1	1	3	3	3
+H	Prenanthes purpurea	1																			1										3	3	2
+H	Primula auricula										1																				1.5	3	4
+H	Primula farinosa							r			1					r															2	4	4
+H	Primula minima							1																							1.5	3	4
+H	Primula veris																												+		3	4	4
+H	Pritzelago alpina = Hornungia= Hutchinsia alpina																	+													1	2	5
+H	Prunella vulgaris L.											1				1			1			1	1		1	+	1		1	r		3	4
+H	Pseudorchis = Leucorchis albida																											r			2	2	4
+H	Pulsatilla vernalis						+	r																							2	4	4
+H	Ranunculus acris L.		+		1							2				1			1	+				+		1		r	1		3	4	3
+H	Ranunculus alpestris L.							1	+	+	1				1			2													1.5	2	4
+H	Ranunculus nemorosus aggr. (incl. montanus)	1			1		1	1	+						1		r			+		1			1					1	3	3	3
+H	Rhinanthus glacialis Personnat (=aristatus)											2	+			1			1					+							2.5	4	4
+H	Rhinanthus minor																			+		+					1				3	3	4
+H	Rhododendron hirsutum (auch Str.)								r		+				3													3			2	2	3
+H	Rubus idaeus L.																				r								+		3	3	3
+H	Rubus saxatilis L.	1																													3	3	2
+H	Rumex arifolius inkl. acetosa? ALL.		1							+		1								r						r							4
+H	Salix reticulata														1																1.5	2	4
+H	Salix serpillifolia								r						+			2													1	4	5
+H	Salix sp.				r				r																								
+H	Saxifraga aizoides																	1													2	2	4
+H	Saxifraga caesia L.										1							1													1.5	4	5
+H	Scabiosa columbaria																										+				4	4	2
+H	Scabiosa lucida			1					1		r											1					1				1.5	4	4
+H	Selaginella selaginoides (L.) Schrank & Mart.						r	1	1		1				2			1						+							2	3	3
+H	Senecio nemorensis aggr. (ovatus)																												1		3		3
+H	Sesleria caerulea = albicans = varia (Jacq.) Wettst.	1		2	1			2	1	1	1			1	1			2		+			+				3				2	4	4
+H	Silene acaulis (L.) Jacq.							1	r						1			1													1	3	5
+H	Silene dioica																									+			+		3	3	3
+H	Silene vulgaris (Moench) Garcke		+																													4	4
+H	Soldanella alpina L.								1	+					1			1													2	2	4
+H	Soldanella pusilla																					+					1				2	1	5
+H	Sorbus aria	r																													3	3	2
+H	Sorbus aucuparia L.	1																			1									1	3	3	3
+H	Sorbus chamaemespilus	+																													2	2	3
+H	Stellaria graminea																			1									+		4	3	3
+H	Stellaria nemorum																												1		2.5	2	2
+H	Succisa pratensis Moench																							1							3	3	3
+H	Taraxacum officinalis agg. 											+											+			+			+		4		
+H	Thalictrum aquilegiifolium																												+		2.5	3	3
+H	Thalictrum minus				+																											4	4
+H	Thesium alpinum			1	1			+	+		r				1							1	+				+				2	3	4
+H	Thymus praecox			1	+			+	1		+									1		1	1		1		2				4.5	5	5
+H	Thymus pulegioides																			1											3	4	4
+H	Tofieldia calyculata (L.) Wahlenb.										+					1								1			+	+			2.5	3	4
+H	Tofieldia pusilla (Michx. Fil.) Pers.								+									+													1.5	3	4
+H	Trifolium montanum				1															2		2	+				1				3	4	4
+H	Trifolium pratense L.		1		1			+		1		2	+			1			2	+			1	+	1	r			1	+	3.5	3	4
+H	Trifolium repens											2				2			2	1			+		1					+	3	3	4
+H	Trisetum flavescens (L.) P. Beauv.											2				1																3	4
+H	Trollius europaeus L.			+			1	1	+	+					1	1				2		2									2.5	3	4
+H	Urtica dioica																												1		3	3	3
+H	Vaccinium myrtillus L.	3					2			2				3	2					1	2	1			+			2		3	2.5	3	2
+H	Vaccinium uliginosum agg. (gaultherioides)						2				1			2	1		3			1		+						1			1.5	3	3
+H	Vaccinium vitis-idaea L.	1				2	1	2			1			1			2						1	r	1			1		1	2.5	3	3
+H	Valeriana officinalis aggr.																								1								3
+H	Valeriana saxatilis								+		1																				2.5	3	4
+H	Veronica chamaedrys L.		1																				+		1	1			1		3	3	3
+H	Veronica officinalis	r																					1		1					+	3	3	3
+H	Veronica urticifolia																												1		2.5	3	3
+H	Vicia cracca		1																							+					3.5	3	3
+H	Vicia sepium																												+		3.5	3	3
+H	Viola biflora L.	1																										1	1		2	3	2
+H	Viola palustris L.												1			1															3	2	3
+H	Viola reichenbachiana																													r	3	2	2
+H	Willemetia = Calycocorsus stipitata (Jacq.) Dalla Torre															2															2.5	2	4
+M	Abietinella abietina																					1			1		1				3	3	4
+M	Acrocladium cuspidatum															+															3	3	4
+L	Alectoria ochroleuca (Hoffm.) Massal.					1		1									1														1	4	5
+M	Aulacomnium palustre																							1							3	3	4
+M	Barbilophozia sp.	+																												+			
+M	Bazzania trilobata																				1										3	2	1
+M	Blepharostoma trichophyllum														1															1	2	2	2
+M	Brachythecium sp.		p							+					1														p				
+M	Bryopsia sp.																											1					
+M	Bryum argenteum																								r						4	3	4
+M	Bryum sp.									+							2																
+M	Calypogeia sp. (muelleriana)																				1									+	3	3	1
+M	Campylium sp.																							1									
+M	Ceratodon purpureus																								+							3	4
+L	Cetraria cucullata							+																							1	4	5
+L	Cetraria islandica					1	2	2			1			2			3														2	4	4
+L	Cetraria nivalis					+											1														1	4	5
+L	Cladonia arbuscula							1						1														1			2	4	4
+L	Cladonia c.f. furcata 							1																				1			3	3	3
+L	Cladonia coniocrea																				1												
+L	Cladonia pyxidata																						r 		+						3	3	4
+L	Cladonia rangiferina													1			2														2	4	4
+L	Cladonia spec.	r									1			1	+																		
+M	Climacium dendroides (Hedw.) Web. Et Mohr												1											r							3	3	4
+M	Dicranella spec.										+				1															1			
+M	Dicranum polysetum																													+	3		3
+M	Dicranum scoparium	1																										1		1	3	3	3
+M	Dicranum sp.																				1				1								
+M	Diplophyllum albicans																				1										3	2	2
+M	Distichum sp.														1																		
+M	Drepanocladus sp.													1																			
+M	Fissidens sp.														1																		
+M	Heterocladium sp.														1																		
+M	Hylocomium splendens	3																			5			+				4		3	3	3	3
+M	Hypnum cupressiforme	+																											p	1	3	3	
+M	Hypnum pratense														1																3		4
+M	Hypnum spec. 										1																						
+M	Lepidozia reptans																													1	3	3	1
+M	Moos unbestimmt							1																									
+L	Peltigera aphthosa																														2	5	3
+L	Peltigera leucophlebia																											+			2	4	3
+M	Plagiochila asplenioides	1																			1										3	3	2
+M	Plagiomnium affine aggr et sp.	+	p																		1									1	3		2
+M	Plagiothecium sp.																				1												
+M	Plagiothecium undulatum																												p		3	2	1
+M	Pleurozium schreberi (Hedw.) Mitt	1												2							1	+		+						1	2	3	3
+M	Polytrichum alpinum (Hedw.) G.L.Sm																							1							1	3	4
+M	Polytrichum formosum	1																			1										3	3	2
+M	Polytrichum juniperinum																								1						3	4	2
+M	Ptilidium pulcherrimum																				1								p	+			
+	Ptilium crista-castrensis																				1										3	3	2
+M	Rhodobryum roseum	+																													3	3	3
+M	Rhytidiadelphus squarrosus (Hedw.) Warnst.													1	1									+					p		3	3	
+M	Rhytidiadelphus triquetrus (Hedw.) Warnst	3		1				1																				2	p	1	3	3	
+M	Rythidium rugosum							3																			1				3	3	4
+M	Sphagnum rubellum																							1									
+M	Sphagnum spec	+																															
+L	Thamnolia vermicularis							+			+																				1	4	5
+M	Thuidium sp.																					+											
+M	Tortula sp.										1										1												
